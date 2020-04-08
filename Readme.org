@@ -1,0 +1,15 @@
+#+STARTUP: showall hidestars
+
+* Lesson 1
+** Part 1
+   - this is an example of whats going on
+   - Show melpa
+   - setup melpa
+** Part 2
+   this is part 2
+** Part 3
+   this is even part 3
+* Lesson 2
+  - [[http://google.com][Google]]
+  - Testing
+    
